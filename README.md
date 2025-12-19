@@ -1,6 +1,3 @@
-# Windows-Intune-Autopilot-Hardware-Hash-Upload-Script
-Efficient and fast upload of system information to Microsoft Intune Autopilot
-
 # Windows Autopilot Hardware Hash Upload Script
 
 This PowerShell script automates the collection and upload of Windows device information (hardware hashes) to Microsoft Intune for Autopilot enrollment. It is specifically designed for IT administrators and MDM managers who want to efficiently integrate devices into Autopilot.  
