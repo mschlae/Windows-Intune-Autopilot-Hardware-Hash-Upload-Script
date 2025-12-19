@@ -2,7 +2,7 @@
 
 This PowerShell script automates the collection and upload of Windows device information (hardware hashes) to Microsoft Intune for Autopilot enrollment. It is specifically designed for IT administrators and MDM managers who want to efficiently integrate devices into Autopilot.  
 
-This enables quick enrollment without additional effort such as logging in or manually uploading CSV files.
+This enables quick enrollment without additional effort such as credentials in or manually uploading CSV files.
 
 ## Features
 - Automatically installs required PowerShell modules (`Microsoft.Graph.Authentication`, `Microsoft.Graph.DeviceManagement.Enrollment`) and the `Get-WindowsAutopilotInfo` script.
